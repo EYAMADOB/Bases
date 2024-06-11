@@ -1,0 +1,19 @@
+[
+    {
+        "nombreproducto":"Celular MOTOROLA G84 256GB 5G Rojo",
+        "calificacion":"4.2",
+        "caracteristicas":[
+                            {
+                                "memoria":"6gb",
+                                "tamaño de pantalla":"Amoled",
+                                "procesador":"Mediatek"    
+                            },
+                            {
+                                "memoria":"8gb",
+                                "tamaño de pantalla":"Amoled",
+                                "procesador":"SnapDragon"    
+                            }
+                          ],
+        "resumenproducto":"Celular MOTOROLA G84 256GB 5G Rojo"
+    }
+]
