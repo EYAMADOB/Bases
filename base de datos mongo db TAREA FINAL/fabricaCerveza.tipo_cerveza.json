@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "666f022a2c3c8c2fd8c972d5"
+  },
+  "nombre": "lagers",
+  "precio": 13.4
+},
+{
+  "_id": {
+    "$oid": "666f022a2c3c8c2fd8c972d6"
+  },
+  "nombre": "Ales",
+  "precio": 12.5
+},
+{
+  "_id": {
+    "$oid": "666f022a2c3c8c2fd8c972d7"
+  },
+  "nombre": "Artemisa",
+  "precio": 13.4
+}]

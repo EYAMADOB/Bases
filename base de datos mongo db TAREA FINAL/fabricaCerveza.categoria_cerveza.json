@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "666efcef2c3c8c2fd8c972ca"
+  },
+  "codigocategoria": 1,
+  "nombrecategoria": "Dark"
+},
+{
+  "_id": {
+    "$oid": "666efcef2c3c8c2fd8c972cb"
+  },
+  "codigocategoria": 2,
+  "nombrecategoria": "Pale"
+},
+{
+  "_id": {
+    "$oid": "666efcef2c3c8c2fd8c972cc"
+  },
+  "codigocategoria": 3,
+  "nombrecategoria": "Bocks"
+},
+{
+  "_id": {
+    "$oid": "666efcef2c3c8c2fd8c972cd"
+  },
+  "codigocategoria": 4,
+  "nombrecategoria": "Stouts"
+},
+{
+  "_id": {
+    "$oid": "666efcef2c3c8c2fd8c972ce"
+  },
+  "codigocategoria": 5,
+  "nombrecategoria": "Porters"
+},
+{
+  "_id": {
+    "$oid": "666efcef2c3c8c2fd8c972cf"
+  },
+  "codigocategoria": 6,
+  "nombrecategoria": "Belgians"
+},
+{
+  "_id": {
+    "$oid": "666efcef2c3c8c2fd8c972d0"
+  },
+  "codigocategoria": 7,
+  "nombrecategoria": "Sours"
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "666ac64acf8857411e3ca017"
+  },
+  "cantproducida": 0,
+  "nombre": "Lagers",
+  "fechapedido": "01/01/2024",
+  "fechaproduccion": "01/02/2024",
+  "ordenpedido": "0"
+},
+{
+  "_id": {
+    "$oid": "666ac64acf8857411e3ca018"
+  },
+  "cantproducida": 0,
+  "nombre": "Alers",
+  "fechadepedido": "01/01/2024",
+  "ordendepedido": "1",
+  "fechaproduccion": "01/02/2024"
+},
+{
+  "_id": {
+    "$oid": "666ac64acf8857411e3ca019"
+  },
+  "cantproducida": 0,
+  "nombre": "Artemisa",
+  "fechadepedido": "01/01/2024",
+  "ordendepedido": "2",
+  "fechaproduccion": "01/02/2024"
+}]

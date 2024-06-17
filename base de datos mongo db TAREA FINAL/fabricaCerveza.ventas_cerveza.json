@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "666ef9ae2c3c8c2fd8c972c2"
+  },
+  "nombre": "lagers",
+  "categoria": "1",
+  "precio": 13.4,
+  "cantidadsolicitada": 1,
+  "ordenpedido": 1
+},
+{
+  "_id": {
+    "$oid": "666ef9ae2c3c8c2fd8c972c3"
+  },
+  "nombre": "lagers",
+  "categoria": "2",
+  "precio": 13.4,
+  "cantidadsolicitada": 1,
+  "ordenpedido": 1
+},
+{
+  "_id": {
+    "$oid": "666ef9ae2c3c8c2fd8c972c4"
+  },
+  "nombre": "lagers",
+  "categoria": "3",
+  "precio": 13.4,
+  "cantidadsolicitada": 1,
+  "ordenpedido": 1
+},
+{
+  "_id": {
+    "$oid": "666ef9ae2c3c8c2fd8c972c5"
+  },
+  "nombre": "lagers",
+  "categoria": "negra",
+  "precio": 13.4,
+  "cantidadsolicitada": 1,
+  "ordenpedido": 1
+},
+{
+  "_id": {
+    "$oid": "666ef9ae2c3c8c2fd8c972c6"
+  },
+  "nombre": "Ales",
+  "categoria": "5",
+  "precio": 13.4,
+  "cantidadsolicitada": 1,
+  "ordenpedido": 1
+},
+{
+  "_id": {
+    "$oid": "666ef9ae2c3c8c2fd8c972c7"
+  },
+  "nombre": "Artemisa",
+  "categoria": "6",
+  "precio": 13.4,
+  "cantidadsolicitada": 1,
+  "ordenpedido": 1
+}]

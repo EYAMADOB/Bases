@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "666c1a291e702efef493cca9"
+  },
+  "nombrecerveza": "lagers",
+  "malta": 1,
+  "Unidadamalta": "gramos",
+  "lupulo": "1",
+  "unidadlupulo": "gramos",
+  "agua": 1,
+  "UnidadaAgua": "litros"
+},
+{
+  "_id": {
+    "$oid": "666c1a291e702efef493ccaa"
+  },
+  "nombrecerveza": "Ales",
+  "malta": 1,
+  "Unidadamalta": "gramos",
+  "lupulo": "1",
+  "unidadlupulo": "gramos",
+  "agua": 1,
+  "UnidadaAgua": "litros"
+},
+{
+  "_id": {
+    "$oid": "666c1a291e702efef493ccab"
+  },
+  "nombrecerveza": "Artemisa",
+  "malta": 1,
+  "Unidadamalta": "gramos",
+  "lupulo": "1",
+  "unidadlupulo": "gramos",
+  "agua": 1,
+  "UnidadaAgua": "litros"
+}]
